@@ -111,5 +111,5 @@ I am an innovative and driven **Software Developer** with a solid foundation in 
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamazayed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-zayed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
