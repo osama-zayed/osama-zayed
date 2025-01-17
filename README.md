@@ -37,7 +37,7 @@ I am an innovative and driven **Software Developer** with a solid foundation in 
 
 ### 🔧 Skills & Technologies
 - **Frameworks:** Laravel, Vue.js, Flutter
-- **Programming Languages:** PHP, JavaScript, Python, SQL, HTML, CSS
+- **Programming Languages:** PHP, SQL, JavaScript, Python, HTML, CSS
 - **Tools & Technologies:** Git, GitHub Actions, Docker, Bootstrap, Livewire, Tailwind CSS
 - **Core Competencies:** Data Structures, REST APIs, Problem Solving, Skill Development
 
