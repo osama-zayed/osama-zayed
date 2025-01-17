@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Zayed</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">Back-end Developer & Web Development & Systems</h3>
 
 <p align="center">
@@ -129,3 +129,4 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
