@@ -107,31 +107,23 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
 - **Arabic:** Native language  
 - **English:** Professional working proficiency
 
+---اصلح هذا الجزء واجعله بدون تكرار
 ---
 ### 🎯 How to Reach Me
+- **Personal website‏:** osamazayed.com ‏
+- **Email:** me@osamazayed.com
+- **Phone:** +967 775561590
+- **LinkedIn:** [[linkedin.com/in/osama-zayed](https://www.linkedin.com/in/osamazayed)](#)
+- **GitHub:** [github.com/osama-zayed](https://github.com/osamazayed)
+- **Facebook:** [[github.com/osama-zayed](https://github.com/osamazayed](https://www.facebook.com/osama.abdullah.12720?mibextid=ZbWKwL))
 
-<p align="center">
-  <strong>Personal website:</strong> <a href="http://osamazayed.com">osamazayed.com</a><br>
-  <strong>Email:</strong> me@osamazayed.com<br>
-  <strong>Phone:</strong> +967 775561590<br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/osama-zayed">linkedin.com/in/osama-zayed</a><br>
-  <strong>GitHub:</strong> <a href="https://github.com/osama-zayed">github.com/osama-zayed</a><br>
-  <strong>Facebook:</strong> <a href="https://www.facebook.com/osama.abdullah.12720?mibextid=ZbWKwL">facebook.com/osama.abdullah.12720</a>
-</p>
-
+---
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/osama-zayed/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/osama-zayed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
-  </a>
   <a href="https://www.facebook.com/osama.abdullah.12720?mibextid=ZbWKwL" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-zayed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
