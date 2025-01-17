@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Zayed</h1>
-<h3 align="center">Innovative Software Developer | Web Development Specialist</h3>
+<h3 align="center">Back-end Developer | Web Development & Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osamazayed&label=Profile%20views&color=0e75b6&style=flat" alt="osamazayed" />
