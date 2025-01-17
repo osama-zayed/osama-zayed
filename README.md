@@ -91,10 +91,12 @@ I am an innovative and driven **Software Developer** with a solid foundation in 
 ---
 
 ### 🎯 How to Reach Me
-- **Email:** osama0zayed@gmail.com
+- **Personal website‏:** osamazayed.com ‏
+- **Email:** me@osamazayed.com
 - **Phone:** +967 775561590
-- **LinkedIn:** [linkedin.com/in/osama-zayed](#)
-- **GitHub:** [github.com/osamazayed](https://github.com/osamazayed)
+- **LinkedIn:** [[linkedin.com/in/osama-zayed](https://www.linkedin.com/in/osamazayed)](#)
+- **GitHub:** [github.com/osama-zayed](https://github.com/osamazayed)
+- **Facebook:** [[github.com/osama-zayed](https://github.com/osamazayed](https://www.facebook.com/osama.abdullah.12720?mibextid=ZbWKwL))
 
 ---
 
@@ -103,7 +105,7 @@ I am an innovative and driven **Software Developer** with a solid foundation in 
   <a href="https://www.linkedin.com/in/osama-zayed/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/osamazayed" target="blank">
+  <a href="https://github.com/osama-zayed" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
