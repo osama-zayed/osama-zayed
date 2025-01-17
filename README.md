@@ -110,7 +110,7 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
 
 ---
 ### 🎯 How to Reach Me
-- **Personal website‏:** osamazayed.com ‏
+- **Personal website‏:**[ osamazayed.com ](https://osamazayed.com/)‏
 - **Email:** me@osamazayed.com
 - **Phone:** +967 775561590
 - **LinkedIn:** [[linkedin.com/in/osama-zayed](https://www.linkedin.com/in/osamazayed)](#)
