@@ -109,14 +109,13 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
 - **English:** Professional working proficiency
 
 
----
-### 🎯 How to Reach Me
+---### 🎯 How to Reach Me
 <div align="center">
  <a href="https://osamazayed.com" target="_blank">
-    <img src="https://img.shields.io/badge/website-omaralalwi.info-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
+    <img src="https://img.shields.io/badge/website-osamazayed.com-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
  </a>
  <a href="mailto:me@osamazayed.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-omaralwi2010@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/email-me@osamazayed.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
  </a>
 <br />
  <a href="https://t.me/osama0zayed" target="_blank">
@@ -130,7 +129,7 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
  </a>
  <a href="https://linkedin.com/in/osamazayed" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
  </a>
  <a href="https://www.facebook.com/osama.abdullah.12720" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
