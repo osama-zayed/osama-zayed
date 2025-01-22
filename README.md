@@ -111,12 +111,31 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
 
 ---
 ### 🎯 How to Reach Me
-- **Personal website‏:**[ osamazayed.com ](https://osamazayed.com/)‏
-- **Email:** me@osamazayed.com
-- **Phone:** +967 775561590
-- **LinkedIn:** [[linkedin.com/in/osama-zayed](https://www.linkedin.com/in/osamazayed)](#)
-- **GitHub:** [github.com/osama-zayed](https://github.com/osamazayed)
-- **Facebook:** [[github.com/osama-zayed](https://github.com/osamazayed](https://www.facebook.com/osama.abdullah.12720?mibextid=ZbWKwL))
+<div align="center">
+ <a href="https://osamazayed.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-omaralalwi.info-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
+ </a>
+ <a href="mailto:me@osamazayed.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-omaralwi2010@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+ </a>
+<br />
+ <a href="https://t.me/osama0zayed" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Omaralalwi-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+ </a>
+ <a href="https://wa.me/00967775561590" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-00967770902927-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+ </a>
+<br />
+ <a href="https://github.com/osama-zayed" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+ </a>
+ <a href="https://linkedin.com/in/osamazayed" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+ </a>
+ <a href="https://www.facebook.com/osama.abdullah.12720" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+ </a>
+</div>
 
 ---
 <h3 align="center">Connect with Me</h3>
