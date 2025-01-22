@@ -103,13 +103,7 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
   Date: 20/5/2023 - 30/6/2023
 
 ---
-
-### 🌐 Languages
-- **Arabic:** Native language  
-- **English:** Professional working proficiency
-
-
----### 🎯 How to Reach Me
+### 🎯 How to Reach Me
 <div align="center">
  <a href="https://osamazayed.com" target="_blank">
     <img src="https://img.shields.io/badge/website-osamazayed.com-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
