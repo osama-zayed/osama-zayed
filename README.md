@@ -125,7 +125,7 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
  <a href="https://linkedin.com/in/osamazayed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
  </a>
- <a href="https://www.facebook.com/osama.abdullah.12720" target="_blank">
+ <a href="https://www.facebook.com/osama0zayed" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
  </a>
 </div>
