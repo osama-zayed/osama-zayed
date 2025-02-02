@@ -35,11 +35,6 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
 - Supported by Google Developer Club, Razi University.
 - Worked at West Academy.
 - Taught concepts of the Laravel framework, focusing on web application development.
----
-
-### 📚 Education
-**Bachelor of Information Technology**  
-*Razi University, Yemen*  
 
 ---
 
