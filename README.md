@@ -51,10 +51,19 @@ My name is Osama, and I have studied Information Technology. I am a core team me
  
 ---
 
-## GitHub Stats  
+## 📊 GitHub Stats & Most Languages
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=osama-zayed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <h4>GitHub Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=osama-zayed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  </div>
+  
+  <div style="display: inline-block; margin: 10px;">
+    <h4>Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-zayed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  </div>
+</div>
 ---
 
 ### 🎯 How to Reach Me
