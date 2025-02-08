@@ -39,10 +39,34 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
 ---
 
 ### 🔧 Skills & Technologies
-- **Frameworks:** Laravel, Vue.js
-- **Programming Languages:** PHP, SQL, JavaScript, Python, HTML, CSS
-- **Tools & Technologies:** Git, GitHub Actions, Docker, Bootstrap, Livewire, Tailwind CSS
-- **Core Competencies:** Data Structures, REST APIs, Problem Solving, Skill Development
+## 🛠️ My Skill Set
+
+<table>
+ <tr>
+    <td align="center" width="33%">
+      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    </td>
+ </tr>
+</table>
 
 ---
 ### 🎯 How to Reach Me
