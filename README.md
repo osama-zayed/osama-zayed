@@ -37,39 +37,26 @@ My name is Osama, and I have studied Information Technology. I am a core team me
 - Taught concepts of the Laravel framework, focusing on web application development.
 
 ---
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=osama-zayed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
----
+
 ### 🔧 Skills & Technologies
-## 🛠️ My Skill Set
 
-<table>
- <tr>
-    <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-    </td>
- </tr>
-</table>
+| Frontend Skills | Backend Skills | Tools |
+|-----------------|----------------|-------|
+| <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> |
+| <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> |
+| <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> |
+| <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> | |
+| <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /> | |
+| <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /> | <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /> | |
 
 ---
+
+## GitHub Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=osama-zayed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+---
+
 ### 🎯 How to Reach Me
 <div align="center">
  <a href="https://osamazayed.com" target="_blank">
