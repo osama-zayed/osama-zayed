@@ -9,7 +9,7 @@
 ---
 
 ### 🛠 Professional Summary
-My name is Osama, and I have studied Information Technology. I am a core tame of the developer community at Google, and I work as a freelancer in the field of web development and systems. I use various programming languages to create innovative solutions for my clients.
+My name is Osama, and I have studied Information Technology. I am a core team member of the developer community at Google, and I work as a freelancer in the field of web development and systems. I use various programming languages to create innovative solutions for my clients.
 
 ---
 
@@ -48,11 +48,10 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
       <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/django-plain.svg" alt="Django" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
     </td>
     <td align="center" width="33%">
       <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
@@ -62,7 +61,7 @@ My name is Osama, and I have studied Information Technology. I am a core tame of
     </td>
     <td align="center" width="33%">
       <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/docker.svg" alt="Docker" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
     </td>
  </tr>
