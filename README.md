@@ -48,8 +48,7 @@ My name is Osama, and I have studied Information Technology. I am a core team me
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-      <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="Django" height="50" />
-      <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
     </td>
     <td align="center" width="33%">
@@ -61,7 +60,7 @@ My name is Osama, and I have studied Information Technology. I am a core team me
     <td align="center" width="33%">
       <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" alt="Docker" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
     </td>
  </tr>
 </table>
