@@ -37,6 +37,9 @@ My name is Osama, and I have studied Information Technology. I am a core team me
 - Taught concepts of the Laravel framework, focusing on web application development.
 
 ---
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=osama-zayed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 ### 🔧 Skills & Technologies
 ## 🛠️ My Skill Set
 
