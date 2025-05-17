@@ -74,7 +74,7 @@ My name is Osama, and I have studied Information Technology. I am a core team me
     <img src="https://img.shields.io/badge/Telegram-Omaralalwi-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
  </a>
  <a href="https://wa.me/00967775561590" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-00967770902927-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-00967775561590-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
  </a>
 <br />
  <a href="https://github.com/osama-zayed" target="_blank">
